@@ -1,10 +1,14 @@
 <div align="center">
-  <img height="100px" src="assets/loiane_logo.png" alt="Logo da Loiane" />
+  <img height="100px" src="https://iconsverse.vercel.app/icons?i=loiane" alt="Logo da Loiane" />
   <h3 align="center">Java Básico - Loiane</h3>
 </div>
 
-# 🎯Objetivo
+# 🔍Visão Geral
 Este curso oferece uma introdução completa ao desenvolvimento com Java, começando pela instalação e configuração do ambiente até tópicos avançados como Programação Orientada a Objetos, herança, interfaces e tratamento de exceções. O curso também explora estruturas de controle de fluxo, manipulação de arrays, vetores e técnicas de depuração para construção de programas eficientes. Meu objetivo é dominar esses fundamentos essenciais da linguagem Java e aplicar os conceitos aprendidos para desenvolver aplicações sólidas, escaláveis e aderentes às boas práticas de desenvolvimento de software.
+<div align="center">
+  <h3> 💻Tecnologias Aprendidas</h3>
+  <img src="https://iconsverse.vercel.app/icons?i=java" alt="Tecnologias Aprendidas">
+</div>
 
 # 📚Conteúdo Abordado
   * **Introdução e Instalação:** Apresentação dos fundamentos do Java, incluindo o processo de download, instalação e configuração do JDK. Configuração de ambiente e IDE para desenvolvimento de aplicações Java, além da execução do primeiro programa.
